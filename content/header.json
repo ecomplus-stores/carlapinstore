@@ -12,7 +12,11 @@
   },
   "categories_list": {
     "featured": [
-      "/bolsas?Bolsas"
+      "/bolsas?Bolsas",
+      "/carteiras-femininas?Carteiras femininas",
+      "/carteiras-masculinas?Carteiras masculinas",
+      "/mochilas?Mochilas",
+      "/cintos?Cintos"
     ],
     "random": 0,
     "full_width": false

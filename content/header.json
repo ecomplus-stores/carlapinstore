@@ -1,19 +1,12 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "CarlaPin Store - Bolsas, carteiras e acessórios.",
+    "link": "",
+    "background": "#fff0f0",
+    "color": "#090909"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
-      }
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },
@@ -23,5 +16,7 @@
     "full_width": false
   },
   "desktop_megamenu": false,
-  "search_input": true
+  "search_input": true,
+  "alphabetical_order_submenu": false,
+  "full_width_submenu": false
 }

@@ -18,7 +18,7 @@
       "/mochilas?Mochilas",
       "/cintos?Cintos"
     ],
-    "random": 5,
+    "random": 0,
     "full_width": false
   },
   "desktop_megamenu": false,

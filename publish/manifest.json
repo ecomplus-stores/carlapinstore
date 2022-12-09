@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.75ca475bcfb675fd41c144f137edbebb.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.14258f2be7991f52d82682e4e9194317.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.2f6dad279ed8b7b199a3a6b7b2a8ab16.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.4d04db69d85be3f981ea33714f141601.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.20cd0af0f86d6dfc650570891ae421b9.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Carla Pin Store - Bolsas",
+  "short_name": "carlapinstore",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "carlapinstore",
+  "background_color": "#ffffff",
+  "theme_color": "#feb3b3"
+}
